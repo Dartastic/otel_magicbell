@@ -1,0 +1,9 @@
+// Licensed under the Apache License, Version 2.0
+// Copyright 2025, Mindful Software LLC, All rights reserved.
+
+/// OpenTelemetry bridge for MagicBell (in-app inbox + multi-channel:
+/// notifications, users, preferences, channels, broadcasts).
+library;
+
+export 'src/otel_magicbell.dart';
+export 'src/otel_magicbell_suppression.dart';
